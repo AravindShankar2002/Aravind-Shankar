@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AravindShankar2002
+- 👋 Hi, I’m Aravind Shankar S
 - 👀 I’m interested in revolutionary technologies as such Artificial Intelligence, machine learning and deep learning, blockchain, cloud computing and cryptocurrency. 
 - 🌱 I’m currently learning full stack MERN development.  
 - 💞️ I’m looking to collaborate on projects with AI/ML, web development and UI/UX development. 
