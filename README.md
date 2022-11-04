@@ -2,7 +2,7 @@
 - 👀 I’m interested in revolutionary technologies as such Artificial Intelligence, machine learning and deep learning, blockchain, cloud computing and cryptocurrency. 
 - 🌱 I’m currently learning full stack MERN development.  
 - 💞️ I’m looking to collaborate on projects with AI/ML, web development and UI/UX development. 
-- 📫 You can reach me through whatsapp(+91 8939732741) or Email(aravindshankar2002@gmail.com or Instagram(aravindshankar2002) 
+- 📫 You can reach me through whatsapp(+91 8939732741) or Email(aravindshankar2002@gmail.com) or Instagram(aravindshankar2002) 
       or LinkedIn( https://www.linkedin.com/in/aravind-shankar-s-368945221/ ) 
       
 - Happy to Help!✨ 
